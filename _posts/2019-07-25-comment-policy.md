@@ -7,7 +7,7 @@ date: 2019-07-25
 The TOPS Repository contains a DISQUS comment section at the bottom of every resource. It is meant to act as a mini Q&A forum and allow friendly interactions between viewers. Please follow to the following guidelines when writing your comment.
 
 ## Keep it civil
-- Criticize people, not ideas
+- Criticize ideas, not people
 - Choose your words wisely (no profanity intended to insult)
 - No personal attacks
 

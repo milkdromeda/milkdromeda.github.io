@@ -7,9 +7,11 @@ title: Personal Charter of Rights and Conduct
 
 Personal Charter of Rights and Conduct
 
-Enacted as a personal charter of Xi (James) Chen, which came into force on October 25, 2019.
+Enacted as the personal charter of Xi (James) Chen, which came into force on October 25, 2019.
 
-## 1. Reasonable limits clause
+Last amended on November 1, 2019
+
+## 1. Reasonable limits
 
 The Personal Charter of Rights and Conduct guarantees the rights and limits to conduct set out in it subject only to such reasonable limits as can be demonstrably justified in a free and democratic society through a full section 1 analysis.
 
@@ -36,11 +38,17 @@ a) new sections not aligned with other sections;
 b) edits that change the meaning of the sentence in any way;
 c) deletions that change the meaning of the sentence in any way.
 
+(8) The Charter must be read and understood by a non-biased reasonable person properly informed with a high degree of logic and reasoning.
+
+(9) Loopholes in the Charter must not be taken advantage of in any way, as perceived in a way described by subsection 8.
+
+(10) A section 1 analysis of subsection 8-10 may not be conducted unless two sane adults above the age of 18 are consulted directly and in-person within five days on the issue of the section with the loophole.
+
 ## 3. Penalty for infringement
 
 If any Charter rights or limits to conduct are infringed without conduction of a section 1 analysis or if the section 1 analysis is passed,
 (a) there will be no penalty; and
-(b) rehabilitation is strongly encouraged.
+(b) rehabilitative actions are strongly encouraged.
 
 ## 4. Obligation to law
 
@@ -52,9 +60,9 @@ All domestic and international laws must be followed, including constitutional l
 
 (2) If any suicidal thoughts is present and impedes with day-to-day proceedings to any degree, three sane adults above the age of 18 must be consulted directly and in-person within three days.
 
-(3) A section 1 analysis must not be conducted on all of section 5 of the Charter without carrying out the proceedings of s. 5(2) first.
+(3) A section 1 analysis must not be conducted on all of section 5 of the Charter without carrying out the proceedings of subsection (2) first.
 
-(4) The right and duty to life is in effect unless eligible for the conditions of s.241.1 of the Criminal Code.
+(4) The right and duty to life is in effect unless eligible for the conditions of s. 241.1 of the Criminal Code.
 
 ## 6. Safety
 
@@ -64,7 +72,7 @@ All domestic and international laws must be followed, including constitutional l
 
 (3) In an emergency rescue situation, personal safety is more important than that of the victim.
 
-## 7. Equal Treatment
+## 7. Equal treatment
 
 (1) s. 15(1) of the Canadian Charter of Rights and Freedoms is effective for all personal speech or conduct.
 
@@ -78,7 +86,9 @@ All domestic and international laws must be followed, including constitutional l
 
 ## 8. Expression
 
-(1) Any forms of appropriate personal expression is encourged to the extent allowed by s. 2(b) of the Canadian Charter of Rights and Freedoms.
+(1) Personal expression is encouraged and permitted to the extent:
+a) allowed by s. 2(b) of the Canadian Charter of Rights and Freedoms; and
+b) of reasonable behaviour described in s. 6(2).
 
 (2) Plagarism is not permitted. All works:
 a) Remains the exclusive property of their creators;
@@ -86,11 +96,19 @@ b) Must be cited properly if their ideas were used or referred to.
 
 (3) Forms of personal expression can be conveyed in any languages, including the official languages of Canada, English and French.
 
-(4) Self-deprecating humour is not permitted without a reasonably pressing or substantial reason.
+(4) Personal expression and thought, including facial expressions, should remain positive and, when applicable, optimistic.
 
 (5) Negative comments and judgements must not be made without a reasonably pressing or substantial reason.
 
-## 9. Science and Facts
+(6) In any setting, ambiguous topics should be asked as soon as possible after a relatively brief period of attempted comprehension.
+
+(7) Self-deprecating humour is not permitted without a substantial reason.
+
+(8) Speaking in stereotypical accents or performing impersonations is not permitted unless:
+a) asked deliberately in a work or educational setting;
+b) justified by a substantial reason.
+
+## 9. Science and facts
 
 (1) All major actions must be in accordance to:
 a) the principles and laws of science;
@@ -110,9 +128,9 @@ d) its impact in the cycle of extraction, production, distribution and disposal.
 a) practical and useful for a all possible customers;
 b) well thought out and optimized to remain competitive in a business environment;
 c) part of a circular story of stuff in all areas of in its lifetime;
-d) in accordance to the issues and opportunities present from a fact based worldview.
+d) in accordance to the issues and opportunities present from a fact-based worldview.
 
-## 11. Time Management
+## 11. Time management
 
 (1) The priorities listed in the 2019 Fall Commitments note and the Commitments spreadsheet should be followed and tasks executed in that order.
 
@@ -128,7 +146,7 @@ a) All distractions must be ignored to the best ability; and
 b) Concentration on the work to the best ability is necessary.
 
 (5) Time spent on social media sites, including YouTube and LinkedIn, must be justified with a reasonably pressing or substantial reason, with the exception of:
-a) education or work-related email, the TOPS 2021 Facebook group and important Messenger chats;
+a) education or work-related email and Facebook groups, and important Messenger chats;
 b) promotional activities related to work;
 c) snoozing or postponing emails or other social media elements for free time of subsection (3).
 
@@ -138,10 +156,33 @@ c) snoozing or postponing emails or other social media elements for free time of
 
 (8) Any content that is sexual in nature for the purposes of entertainment of the viewer is prohibited at any time.
 
-(9) The period of time from 10:30 pm to at least 7:00 am is considered bed time. It should be followed to the best ability and its minimum duration must be 7 hours.
+(9) The period of time from 10:30 pm to 7:30 am, is considered bed time with the exception of Fridays, which is from 10:15 pm to 7:15 am.
 
-## 11. Notwithstanding clause
-(1) It may be expressly declared and recorded in a note, as the case may be, that an action or conduct thereof shall operate notwithstanding a provision included in section 7(2-3), section 8 (4-5), section 9 (2), section 10 and section 11 (1-7, 9) of this Charter.
+## 12. Physical and mental health
+
+(1) Bed time of s. 11(9) should be followed to the best ability and its minimum duration must be 6 hours.
+
+(2) Food should be eaten until the noticeable perception of fullness, providing that it is reasonably healthy given the available options.
+
+(3) Moderate to intense exercise of at least 3 hours or casual exercise of at least 5 hours a week should be guaranteed.
+
+(4) The consumption of any forms of addictive substances and drugs are strictly prohibited. This includes caffeinated drinks, alcohol, cigarettes, marijuana etc.
+
+(5) If any addictive substances are consumed voluntarily twice within a week or drugs once at any point, two sane adults above the age of 18 must be consulted directly and in-person within five days.
+
+(6) A section 1 analysis must not be conducted on all of subsection 4-6 without carrying out the proceedings of subsection (5) first.
+
+(7) Showers, under ten minutes of running water to the principles of s. 9(2), should be taken at least every three days unless impossible or justified by a substantial reason.
+
+(8) Undesirable marks must not be taken seriously. If the problem persists:
+a) a discussion can be made with the instructor;
+b) the reasons for the mark should be considered;
+c) the test or assignment should be corrected and noted down for future reference.
+
+(9) If academic pressure becomes an ongoing issue or intensify to severly, two sane adults above the age of 18 must be consulted directly and in-person within five days.
+
+## Notwithstanding clause
+(1) It may be expressly declared and recorded in a note, as the case may be, that an action or conduct thereof shall operate notwithstanding a provision included in ss. 7(2-3), 8(4-5), 9(2), 10 and 11(1-7, 9) of this Charter.
 
 (2) An action in respect of which a declaration made under this section is in effect shall have such operation as it would have but for the provision of this Charter referred to in the declaration.
 
@@ -151,22 +192,27 @@ c) snoozing or postponing emails or other social media elements for free time of
 
 (5) Subsection (3) applies in respect of a re-enactment made under subsection (4).
 
-## Section 1 Analysis
+## Appendix
 
 ### Vocabulary 
 - Infringement: An action that infringes upon a Charter right
 - Charter right: A section or subsection of this Charter
 
-### Note
+### Distinction
 - The word "infringement" is often used instead of "provision of law" of the SCC Oakes Test.
 - This s. 1 analysis is directed at the individual, not the society. It must be performed on all relevant sections.
 
-### The Analysis
+### Full section 1 analysis
 1. Is the purpose of the infringement pressing and substantial?
 2. Proportionality
 a) Is the infringement rationally connected to its purpose?
 b) Does the infringement minimally impair the Charter right?
 c) Do the positive effects of the infringement outweigh the negative effects of the loss of the Charter right?
+
+### Substantiality (and urgency) test
+1. Is subject in consideration, usually the reason,:
+a) pressing; and
+b) substantial?
 
 ## References
 

@@ -9,7 +9,7 @@ Personal Charter of Rights and Conduct
 
 Enacted as the personal charter of Xi (James) Chen, which came into force on October 25, 2019.
 
-Last amended on November 1, 2019
+Last amended on December 2, 2019
 
 ## 1. Reasonable limits
 
@@ -29,7 +29,9 @@ b) in any other important events where a Charter infringement is ambiguous.
 a) a mental judgement or consultation can be made if desired, or
 b) it need not be consulted.
 
-(5) Revisions to the Charter can only be made once a month for a period of up to 120 minutes with explicit permission.
+(5) Revisions to the Charter can only be made once a month for a period of up to 120 minutes:
+a) personally, or
+b) with explicit permission, both free of any pressure or coercion.
 
 (6) Between revisions of subsection (5), proposed revisions can be kept digitally or on paper, acting as strong recommendations but not to the extent of subsection (2).
 
@@ -132,7 +134,7 @@ d) in accordance to the issues and opportunities present from a fact-based world
 
 ## 11. Time management
 
-(1) The priorities listed in the 2019 Fall Commitments note and the Commitments spreadsheet should be followed and tasks executed in that order.
+(1) The priorities listed in the 2019 Fall/Winter Commitments note and the Commitments spreadsheet should be followed and tasks executed in that order.
 
 (2) Any time that is not assigned a free time or work time, by default, is an open time.
 a) Open time should be appropriately scheduled and codified to become free time or work time according to subsection (1) and by conservative judgement;
@@ -166,7 +168,7 @@ c) snoozing or postponing emails or other social media elements for free time of
 
 (3) Moderate to intense exercise of at least 3 hours or casual exercise of at least 5 hours a week should be guaranteed.
 
-(4) The consumption of any forms of addictive substances and drugs are strictly prohibited. This includes caffeinated drinks, alcohol, cigarettes, marijuana etc.
+(4) The consumption of any forms of addictive substances and drugs are strictly prohibited. This includes caffeinated drinks other than tea, alcohol, cigarettes, marijuana etc. The consumption of tea is strongly not recommended unless it is the only beverage available or it is offered in a setting that seeks to appreciate the ancient tea culture of Asia.
 
 (5) If any addictive substances are consumed voluntarily twice within a week or drugs once at any point, two sane adults above the age of 18 must be consulted directly and in-person within five days.
 
@@ -179,7 +181,23 @@ a) a discussion can be made with the instructor;
 b) the reasons for the mark should be considered;
 c) the test or assignment should be corrected and noted down for future reference.
 
-(9) If academic pressure becomes an ongoing issue or intensify to severly, two sane adults above the age of 18 must be consulted directly and in-person within five days.
+(9) If academic pressure becomes an ongoing issue or intensifies to a severe state, two sane adults above the age of 18 must be consulted directly and in-person within five days.
+
+## 13. Relationships
+(1) Any intention or act of sexual harrassment, such as leering or examples mentioned on the [Ontario Human Rights Code](http://www.ohrc.on.ca/en/policy-preventing-sexual-and-gender-based-harassment/2-identifying-sexual-harassment), is prohibited.
+
+(2) Any intention or act of sexual assault, defined as sexual contact without consent, is strictly prohibited.
+
+(3) Any intention or act of sex, as interpreted objectively, is prohibited before marriage.
+
+(4) If any act of subsection 2 to 3 is performed, any intent of subsection 2 to 3 is present or any intent or act of subsection 1 is present, with the latter two becoming a persisting of severe issue, two sane adults above the age of 18 must be consulted directly and in-person within five days.
+
+(5) Consent must be verified with the acronym "FRIES", which is:
+a) freely given;
+b) reversable and reciprocative;
+c) informative;
+d) enthusiastic; and
+e) specific.
 
 ## Notwithstanding clause
 (1) It may be expressly declared and recorded in a note, as the case may be, that an action or conduct thereof shall operate notwithstanding a provision included in ss. 7(2-3), 8(4-5), 9(2), 10 and 11(1-7, 9) of this Charter.
@@ -210,7 +228,7 @@ b) Does the infringement minimally impair the Charter right?
 c) Do the positive effects of the infringement outweigh the negative effects of the loss of the Charter right?
 
 ### Substantiality (and urgency) test
-1. Is subject in consideration, usually the reason,:
+1. Is subject in consideration, usually the reason,
 a) pressing; and
 b) substantial?
 

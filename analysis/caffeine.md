@@ -1,3 +1,8 @@
+---
+layout: default
+title: Caffeine
+---
+
 # Caffeine
 December 2, 2019
 
